@@ -110,9 +110,9 @@ author:
   location         : "South Korea"
   email            : "lustean@gmail.com"
   links:
-    - label: "Email"
+    - label: "lustean@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:lustean@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
